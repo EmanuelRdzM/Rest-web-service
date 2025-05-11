@@ -1,4 +1,7 @@
-# Rest-web-service
+# Rest-web-servic
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/EmanuelRdzM/Rest-web-service)
+
 
 Este repositorio contiene un sencillo servicio web API REST implementado con Firebase, que gestiona una lista de tareas (To-Do). Proporciona endpoints básicos para realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) en la lista de tareas.
 
